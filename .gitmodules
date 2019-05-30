@@ -1,0 +1,4 @@
+[submodule "dev"]
+	path = dev
+	url = https://github.com/viral1043/gitpage.git
+	branch = dev-doc
